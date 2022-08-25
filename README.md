@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nuno Roboredo
+- 👀 I’m interested in crytocoins bots
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python projects
+- 📫 How to reach me nroboredo@gmail.com
